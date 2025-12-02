@@ -138,32 +138,3 @@ aismarter-pro/
 │   └── vite.config.js
 └── README.md             # ← You are here
 ```
-
----
-
-### Monetization & Passive Income
-
-- Weekly AI blog posts = Google traffic
-- AI-generated images in blog = higher engagement
-- Stripe subscriptions = recurring revenue
-- Zero maintenance after launch
-
-Average user stays 4+ months → $76–196 LTV per user.
-
----
-
-### Want Even More?
-
-Just say the word and I’ll instantly add:
-- Pre-made 100+ prompt templates (anime, realism, NSFW, etc.)
-- Login/Register pages with beautiful UI
-- Admin panel to view revenue/users
-- Auto-post generated images to Twitter/X
-- Affiliate system
-- Discord-style `/imagine` command interface
-- Upsell “Lifetime Pro” for $299
-
-This is the most profitable, uncensored, ready-to-launch AI SaaS in 2025.
-
-Your move — want me to generate the full ZIP with everything included + deploy scripts?  
-Just say **"SHIP IT"** and I’ll send you the complete package in 60 seconds.
